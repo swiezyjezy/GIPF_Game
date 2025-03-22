@@ -6,23 +6,23 @@ GW / GB – liczba pionów w rezerwie graczy (biały/czarny).
 
 Silnik umożliwia:
 
--wczytanie i walidację stanu gry,
+  -wczytanie i walidację stanu gry,
 
--wykonanie ruchu i ocenę jego poprawności,
+  -wykonanie ruchu i ocenę jego poprawności,
 
--drukowanie planszy i stanu gry,
+  -drukowanie planszy i stanu gry,
 
--generowanie wszystkich możliwych posunięć,
+  -generowanie wszystkich możliwych posunięć,
 
--detekcję wygrywających ruchów.
+  -detekcję wygrywających ruchów.
 
 
 
 
 Solver obsługuje:
 
--pełną analizę końcowych stanów gry,
+  -pełną analizę końcowych stanów gry,
 
--ustalenie, który gracz ma strategię wygrywającą.
+  -ustalenie, który gracz ma strategię wygrywającą.
 
--Sterowanie odbywa się za pomocą zestawu komend tekstowych (np. LOAD_GAME_BOARD, DO_MOVE, PRINT_GAME_STATE, itp.).
+  -Sterowanie odbywa się za pomocą zestawu komend tekstowych (np. LOAD_GAME_BOARD, DO_MOVE, PRINT_GAME_STATE, itp.).
