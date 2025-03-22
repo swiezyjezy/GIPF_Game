@@ -17,7 +17,7 @@ Silnik umożliwia:
   -detekcję wygrywających ruchów.
 
 
-
+----------------------------------------------------------------------------------------------
 
 Solver obsługuje:
 
