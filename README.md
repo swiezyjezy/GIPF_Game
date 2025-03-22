@@ -4,6 +4,7 @@ S – rozmiar planszy,
 K – liczba pionów potrzebna do zbicia,
 GW / GB – liczba pionów w rezerwie graczy (biały/czarny).
 
+----------------------------------------------------------------------------------------
 Silnik umożliwia:
 
   -wczytanie i walidację stanu gry,
