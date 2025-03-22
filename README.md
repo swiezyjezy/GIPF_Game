@@ -17,6 +17,8 @@ Silnik umożliwia:
 -detekcję wygrywających ruchów.
 
 
+
+
 Solver obsługuje:
 
 -pełną analizę końcowych stanów gry,
